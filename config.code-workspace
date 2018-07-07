@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "/media/zpvoh/Zpvoh/OOP/test"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"string": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}
